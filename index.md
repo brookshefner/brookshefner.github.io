@@ -1,5 +1,23 @@
 ## Welcome to GitHub Pages
 
+### Just trying to do something
+## To see if it works
+# And then what?
+
+What I'm really interested in is *emphasis* and **emphasis**, how we might include
+- bullets
+- more bullets
+- even more bullets
+
+or
+1. Something here
+2. Something there
+3. etc.
+
+Mabye we could visit [Google](www.google.com)
+
+
+
 You can use the [editor on GitHub](https://github.com/brookshefner/brookshefner.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
