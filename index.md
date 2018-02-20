@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-### Just trying to do something
+# Just trying to do something
 ## To see if it works
-# And then what?
+### And then what?
 
 What I'm really interested in is *emphasis* and **emphasis**, how we might include
 - bullets
@@ -14,7 +14,7 @@ or
 2. Something there
 3. etc.
 
-Mabye we could visit [Google](www.google.com)
+Mabye we could visit [Google](http://www.google.com)
 
 
 
